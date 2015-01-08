@@ -1,18 +1,19 @@
 <?php
 
-echo "OPERADORES A NIVEL DE BITS: \n";
+echo "OPERADORES A NIVEL DE BITS: \n";//Trabajan bit por bit
+//Valores ejemplo:
 $firstValue = 167;
 $secondValue = 69;
 
-$and = $firstValue & $secondValue;
-$or = $firstValue | $secondValue;
-$xor = $firstValue ^ $secondValue;
-$not = ~$firstValue;
+$and = $firstValue & $secondValue; //El resultado será el que ambos bits sean 1, lo demás 0
+$or = $firstValue | $secondValue; //El resultado será el que uno o ambos bits sea 1
+$xor = $firstValue ^ $secondValue; // El resultado será el que uno pero NO AMBOS sea 1
+$not = ~$firstValue; // Se invierten todos los bits
 $zeroNot = ~0;
-$shiftLeft = $firstValue << 1;
-$shiftTwiceLeft = $firstValue << 2;
-$shiftRight = $firstValue >> 1;
-$shiftTwiceRight = $firstValue >> 2;
+$shiftLeft = $firstValue << 1; //Desplazamiento a izquierda de los bits (1 posición)
+$shiftTwiceLeft = $firstValue << 2;//Desplazamiento a izquierda de los bits (2 posiciones)
+$shiftRight = $firstValue >> 1;//Desplazamiento a derecha de los bits (1 posición)
+$shiftTwiceRight = $firstValue >> 2;//Desplazamiento a derecha de los bits (2 posiciones)
 
 echo 'AND:' . "\n";
 echo decBinary($firstValue) . "\n";
