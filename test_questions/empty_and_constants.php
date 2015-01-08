@@ -1,7 +1,7 @@
 <?php
 
 /*
-Este código no funciona, da syntax error, ya que empty es una
+Este código no funciona, da syntax error, ya que EMPTY (case insensitive) es una
 función de PHP y espera apertura de paréntesis y parámetros.
 
 Para que este código funcionara, podríamos:
