@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node>
+    <?var type="String"?>
+    <leaf>Value</leaf>
+</node>
+<?xml version="1.0" encoding="UTF-8"?>
+<node>
+    <?var type="String"?>
+    <leaf>Value</leaf>
+</node>

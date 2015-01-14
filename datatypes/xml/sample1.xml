@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<details>
+    <data length="5">
+        <d0>0</d0>
+        <d1>1</d1>
+        <d2>1</d2>
+        <d3>1</d3>
+        <d4>0</d4>
+    </data>
+    <media>
+        <image>anImage.png</image>
+        <image>anotherImage.png</image>
+        <video>aVideo.mp4</video>
+        <audio/>
+    </media>
+</details>

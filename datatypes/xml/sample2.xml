@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<details>
+    <data xmlns:d="http://url/data">
+        <d:d0>0</d:d0>
+        <d:d1>0</d:d1>
+        <d:d2>0</d:d2>
+        <d:d3>0</d:d3>
+        <d:d4>0</d:d4>
+    </data>
+    <media xmlns:m="http://url/media">
+        <m:image>anImage.png</m:image>
+        <m:image>anotherImage.png</m:image>
+        <m:video>aVideo.mp4</m:video>
+        <m:audio/>
+    </media>
+</details>
