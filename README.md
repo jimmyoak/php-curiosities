@@ -8,6 +8,10 @@ http://php.net/manual/en/language.variables.superglobals.php
 ## Error constants: ##
 http://php.net/manual/en/errorfunc.constants.php
 
+## XPath: ##
+http://www.w3schools.com/xpath/
+http://www.w3schools.com/xpath/xpath_syntax.asp
+
 ## Study Guide 5.3: ##
 https://www.dropbox.com/sh/vfptyn8kqzqvacs/AACG7o1bMp__f64LE9Sefc8Wa/PHP-5-3-Study-Guide-v1.pdf?dl=0
 
