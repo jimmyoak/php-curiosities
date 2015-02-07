@@ -9,7 +9,7 @@ function test()
     if ($count < 10) {
         test();
     }
-    $count--;
+    $count--; //comment or un comment this line to see the different effect with static variable
 }
 
 test();
