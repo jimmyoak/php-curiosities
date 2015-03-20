@@ -10,3 +10,11 @@ function l()
 }
 
 echo implode((L(l())), ',');
+
+/*
+
+Dani: '0,1'
+Odín: '0,1'
+Marius: '0,1'
+
+ */

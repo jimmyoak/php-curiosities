@@ -2,14 +2,14 @@
 
 class M
 {
+    function __construct()
+    {
+        echo "mmm";
+    }
+
     function m()
     {
         echo "M";
-    }
-
-    function construct()
-    {
-        echo "mmm";
     }
 }
 
