@@ -1,15 +1,18 @@
 <?php
 
-class A {
+class A
+{
     protected function asdf()
     {
-echo 'aitor';
+        echo 'aitor';
     }
 }
 
-class B extends A {
-    public function asdf() {
-echo 'asdf';
+class B extends A
+{
+    public function asdf()
+    {
+        echo 'asdf';
     }
 }
 
