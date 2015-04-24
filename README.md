@@ -1,6 +1,6 @@
 # php-curiosities
 
-Aquí irán esos pequeños ejemplos de PHP que veamos en el club de formación de certificación PHP en Atrapalo.
+Aquí irán esos pequeños ejemplos de PHP que veamos en el club de formación de certificación PHP en Atrápalo.
 
 ## Superglobales: ##
 http://php.net/manual/en/language.variables.superglobals.php
@@ -12,11 +12,11 @@ http://php.net/manual/en/errorfunc.constants.php
 http://www.w3schools.com/xpath/
 http://www.w3schools.com/xpath/xpath_syntax.asp
 
-## Study Guide 5.3: ##
-https://www.dropbox.com/sh/vfptyn8kqzqvacs/AACG7o1bMp__f64LE9Sefc8Wa/PHP-5-3-Study-Guide-v1.pdf?dl=0
+## Zend Certified PHP Engineer Exam Study Guide: ##
+https://www.dropbox.com/sh/vfptyn8kqzqvacs/AAABq6mbQQNFHDpBZXDYcsSCa/study/PHP_5-5_Study_Guide.pdf?dl=0
 
 ## Blog ZendCertificationDT: ##
 http://zendcertificationdt.netii.net/
 
-## Zend Study Guide PHP 5: ##
-https://www.dropbox.com/sh/vfptyn8kqzqvacs/AAAcmy7FN39t8X0OyIya1e6za/PHP%205%20Zend%20study%20guide%2C2ndEd(By%20Find_10).pdf?dl=0
+## Zend PHP 5 Certification Study Guide (Third Edition): ##
+https://www.dropbox.com/sh/vfptyn8kqzqvacs/AAAqxAZo7hnlvr0RX-JCxemoa/study/Zend%20PHP%205.5%20Certification%20Study%20Guide%2C%20Third%20Edition%2C%20A%20php%5Barchitect%5D%20Guide%20%28New%202015%29.pdf?dl=0
