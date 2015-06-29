@@ -1,7 +1,13 @@
 <?php
 
-function increment ($a) {
+function preIncrement ($a) {
     return ++$a;
 }
 
-echo increment(1);
+function postIncrement ($a) {
+    return $a++;
+}
+
+echo preIncrement(1);
+
+echo postIncrement(1);

@@ -1,7 +1,7 @@
 <?php
 
 abstract class myBaseClass {
-    abstract  protected function doSomething();
+    abstract protected function doSomething();
     function threeDots() {
         return '...';
     }
